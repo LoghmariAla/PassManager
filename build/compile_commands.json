@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/alalo/Desktop/TEK-UP/C/projet/build",
-  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL  -g -std=gnu11 -o CMakeFiles\\TutorialApp.dir\\main.c.obj -c C:\\Users\\alalo\\Desktop\\TEK-UP\\C\\projet\\main.c",
-  "file": "C:/Users/alalo/Desktop/TEK-UP/C/projet/main.c",
-  "output": "CMakeFiles/TutorialApp.dir/main.c.obj"
-}
-]
